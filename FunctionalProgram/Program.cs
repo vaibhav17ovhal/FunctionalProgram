@@ -18,7 +18,12 @@ namespace FunctionalProgram
 
             Console.WriteLine("=============X=============");
 
-            PowerOfTwo.CalculatingPower();
+            //PowerOfTwo.CalculatingPower();
+
+            Console.WriteLine("=============X=============");
+
+            HarmonicNumber.Harmonic();
+
 
         }
     }
