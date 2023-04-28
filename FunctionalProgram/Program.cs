@@ -26,7 +26,11 @@ namespace FunctionalProgram
 
             Console.WriteLine("=============X=============");
 
-            Factors.FactorPrime();
+            //Factors.FactorPrime();
+
+            Console.WriteLine("=============X=============");
+
+            QuotientAndRemainder.FindQuotientAndRemainder();
 
 
         }
