@@ -22,7 +22,11 @@ namespace FunctionalProgram
 
             Console.WriteLine("=============X=============");
 
-            HarmonicNumber.Harmonic();
+            //HarmonicNumber.Harmonic();
+
+            Console.WriteLine("=============X=============");
+
+            Factors.FactorPrime();
 
 
         }
