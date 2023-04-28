@@ -10,12 +10,7 @@ namespace FunctionalProgram
 
             Console.WriteLine("=============X=============");
 
-            FlipCoin.DisplayPercentage();
-
-            Console.WriteLine("=============X=============");
-
             LeapYear.CheckingLeapYear();
-
         }
     }
 }
