@@ -34,7 +34,11 @@ namespace FunctionalProgram
 
             Console.WriteLine("=============X=============");
 
-            SwapNumbers.SwappingNumbers();
+            //SwapNumbers.SwappingNumbers();
+
+            Console.WriteLine("=============X=============");
+
+            EvenAndOdd.CheckingEvenOrOdd();
 
 
         }
