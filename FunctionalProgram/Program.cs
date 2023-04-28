@@ -30,7 +30,11 @@ namespace FunctionalProgram
 
             Console.WriteLine("=============X=============");
 
-            QuotientAndRemainder.FindQuotientAndRemainder();
+            //QuotientAndRemainder.FindQuotientAndRemainder();
+
+            Console.WriteLine("=============X=============");
+
+            SwapNumbers.SwappingNumbers();
 
 
         }
