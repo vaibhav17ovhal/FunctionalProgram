@@ -42,9 +42,11 @@ namespace FunctionalProgram
 
             Console.WriteLine("=============X=============");
 
-            VowelsAndConsonants.CheckAlphabet();
+            //VowelsAndConsonants.CheckAlphabet();
 
+            Console.WriteLine("=============X=============");
 
+            LargestNumber.FindLargestNumber();
         }
     }
 }
