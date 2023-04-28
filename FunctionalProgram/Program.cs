@@ -10,21 +10,7 @@ namespace FunctionalProgram
 
             Console.WriteLine("=============X=============");
 
-            //FlipCoin.DisplayPercentage();
-
-            Console.WriteLine("=============X=============");
-
-            //LeapYear.CheckingLeapYear();
-
-            Console.WriteLine("=============X=============");
-
-            //PowerOfTwo.CalculatingPower();
-
-            Console.WriteLine("=============X=============");
-
             HarmonicNumber.Harmonic();
-
-
         }
     }
 }
