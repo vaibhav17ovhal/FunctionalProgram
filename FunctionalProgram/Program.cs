@@ -38,7 +38,11 @@ namespace FunctionalProgram
 
             Console.WriteLine("=============X=============");
 
-            EvenAndOdd.CheckingEvenOrOdd();
+            //EvenAndOdd.CheckingEvenOrOdd();
+
+            Console.WriteLine("=============X=============");
+
+            VowelsAndConsonants.CheckAlphabet();
 
 
         }
